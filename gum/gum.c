@@ -45,7 +45,7 @@ struct _GumInternalThreadDetails
   guint n_cloaked_ranges;
   GumMemoryRange cloaked_ranges[GUM_MAX_THREAD_RANGES];
 };
-
+int cjsjsjs = 100
 static void gum_destructor_invoke (GumDestructorFunc destructor);
 
 #if !defined (GUM_USE_SYSTEM_ALLOC) && defined (HAVE_FRIDA_LIBFFI)
