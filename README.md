@@ -74,4 +74,4 @@ Frida [releases][] page.
 [Heap]: https://github.com/frida/frida-gum/tree/master/libs/gum/heap
 [Profiling]: https://github.com/frida/frida-gum/tree/master/libs/gum/prof
 [worst-case inspector]: https://github.com/frida/frida-gum/blob/7e4c5b547b035ae05d2f9e160652101bf741e6c3/libs/gum/prof/gumprofiler.h#L40-L42
-[releases]: https://github.com/frida/frida/releases
+[releases]: https://github.com/frida/frida/releases.
